@@ -1,0 +1,6 @@
+source-captures/
+design/
+qa/
+.env*
+.playwright-cli/
+output/
